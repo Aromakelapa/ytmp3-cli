@@ -1,0 +1,28 @@
+{
+  "name": "ytmp3-cli",
+  "version": "1.0.0",
+  "description": "YouTube to MP3 CLI downloader with NodeJS",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Aromakelapa/ytmp3-cli.git"
+  },
+  "keywords": [
+    "yt",
+    "cli",
+    "ytmp3"
+  ],
+  "author": "Aromakelapa",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Aromakelapa/ytmp3-cli/issues"
+  },
+  "homepage": "https://github.com/Aromakelapa/ytmp3-cli#readme",
+  "dependencies": {
+    "fluent-ffmpeg": "^2.1.2",
+    "ytdl-core": "^4.11.5"
+  }
+}
