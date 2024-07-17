@@ -1,5 +1,5 @@
 const readline = require('readline');
-const ytdl = require('ytdl-core');
+const ytdl = require('@distube/ytdl-core');
 const ffmpeg = require('fluent-ffmpeg');
 const fs = require('fs');
 
